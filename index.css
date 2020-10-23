@@ -1,0 +1,12 @@
+ABBR, ACRONYM {
+	border-bottom: 3px dotted #F04B2D;
+	cursor: crosshair;
+	font-style: italic;
+}
+
+
+.backgrounds{
+	background:linear-gradient(127deg,#00ffff , #fffe);
+	min-height: 939px;
+	cursor: url(image/wstealth2_no.cur), crosshair;
+}
